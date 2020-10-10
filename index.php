@@ -1,1 +1,3 @@
--- themes and templates ---
+<?php 
+
+// -- themes and templates ---
